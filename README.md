@@ -12,7 +12,7 @@ Second, let's define switches information for Netmiko:
 
 ![alt tag](https://github.com/OthmaneBlial/HSRP-Configuration-using-Netmiko/blob/master/Tutorial/3.PNG)
 
-This function is used to make an argument optional, in the following config functions that will dfine: 
+This function is used to make an argument optional, in the following config functions that we will define: 
 
 ![alt tag](https://github.com/OthmaneBlial/HSRP-Configuration-using-Netmiko/blob/master/Tutorial/4.PNG)
 
